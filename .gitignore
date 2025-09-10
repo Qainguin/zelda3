@@ -32,9 +32,5 @@ __pycache__
 /glsl-shaders
 /token.txt
 pyvenv.cfg
-zelda3.js
-zelda3.html
-zelda3.data
-zelda3.wasm
 lib/python3.13/*
 lib64/python3.13/*
